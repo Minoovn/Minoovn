@@ -4,7 +4,7 @@
 - 🎓 I’m a student of Information Technology at OAMK University of Applied Sciences, Finland.
 - 💼 I have a strong background in **fashion design**, **architecture**.
 - 🎮 Passionate about **game development** and exploring the endless possibilities of **artificial intelligence**.  
-- 🌟 Currently improving my skills in **C++ programming**, **Linux systems**, **web designing**, **java script** and advancing in **Finnish language**.
+- 🌟 Currently improving my skills in **java programming**, **Linux systems**, **web designing**, **java script**, **html**, **css** and **python**.
 
 ## 🌱 Interests
 - 🎨 Combining my love for **design** with technology to create innovative and visually stunning projects.  
